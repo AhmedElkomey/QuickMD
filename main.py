@@ -23,7 +23,7 @@ def main() -> None:
     args = parse_args()
     try:
         app = QApplication(sys.argv)
-        config = Config()
+        config = Config(config_file=args.config)
         window = MainWindow(config)
         window.show()
         sys.exit(app.exec_())

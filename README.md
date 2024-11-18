@@ -145,7 +145,7 @@ source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ### Running Tests
 Run unit tests using:
 ```bash
-python -m unittest discover tests
+python -m unittest tests/test_editor.py -v
 ```
 
 ### Code Style and Linting

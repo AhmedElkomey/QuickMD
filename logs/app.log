@@ -1,0 +1,346 @@
+2024-11-18 14:08:24,256 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:24,256 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:24,257 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:24,285 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:24,285 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:24,288 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:24,288 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:24,288 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:24,288 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:24,292 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:24,292 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:24,295 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:24,295 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:24,298 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:24,298 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:28,339 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:28,340 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:28,340 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:28,340 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:28,340 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:28,340 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:28,340 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:28,340 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:28,340 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:28,341 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:28,341 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:28,341 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:28,341 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:28,341 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:28,341 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:29,324 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:29,324 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:29,324 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:29,324 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:29,324 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:29,324 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:29,324 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:29,324 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:29,324 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:29,325 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:29,325 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:29,325 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:29,325 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:29,325 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:29,325 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:30,740 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:30,740 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:30,741 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:30,741 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:30,741 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:30,741 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:30,741 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:30,741 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:30,741 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:30,741 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:30,741 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:30,741 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:30,741 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:30,741 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:30,741 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:31,683 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:31,683 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:31,683 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:31,683 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:31,684 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:31,684 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:31,684 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:31,684 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:31,684 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:31,684 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:31,684 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:31,684 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:31,684 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:31,684 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:31,684 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:34,326 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:34,326 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:34,327 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:34,327 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:35,772 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:35,772 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:35,772 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:35,772 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:35,773 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:35,773 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:35,773 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:35,773 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:35,773 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:35,773 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:35,773 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:35,773 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:35,773 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:35,773 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:35,773 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:36,310 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:36,310 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:36,310 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:36,310 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:36,310 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:36,310 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:36,311 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:36,311 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:36,311 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:36,311 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:36,311 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:36,311 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:36,311 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:36,311 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:36,312 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:36,536 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:36,537 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:36,537 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:36,537 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:36,538 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:36,538 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:36,538 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:36,538 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:36,539 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:36,539 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:36,539 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:36,539 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:36,540 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:36,540 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:36,540 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:36,574 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:36,574 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:36,574 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:36,574 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:36,575 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:36,575 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:36,575 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:36,575 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:36,575 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:36,575 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:36,575 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:36,576 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:36,576 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:36,576 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:36,576 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:36,721 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:36,722 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:36,722 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:36,722 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:36,723 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:36,723 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:36,723 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:36,724 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:36,724 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:36,724 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:36,724 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:36,725 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:36,725 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:36,725 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:36,725 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:37,109 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:37,109 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:37,109 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:37,109 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:37,109 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:37,109 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:37,109 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:37,109 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:37,110 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:37,110 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:37,110 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:37,110 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:37,110 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:37,110 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:37,110 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:37,841 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:37,842 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:37,842 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:37,842 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:37,843 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:37,843 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:37,843 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:37,844 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:37,844 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:37,845 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:37,845 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:37,845 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:37,845 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:37,845 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:37,846 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:37,904 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:37,904 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:37,905 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:37,905 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:37,905 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:37,906 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:37,906 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:37,906 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:37,906 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:37,907 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:37,907 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:37,907 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:37,907 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:37,907 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:37,908 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:38,031 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:38,031 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:38,031 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:38,032 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:38,032 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:38,032 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:38,032 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:38,032 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:38,032 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:38,033 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:38,033 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:38,033 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:38,033 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:38,033 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:38,033 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:39,750 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:39,750 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:39,751 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:39,751 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:39,751 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:39,751 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:39,751 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:39,751 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:39,751 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:39,751 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:39,751 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:39,751 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:39,751 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:39,751 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:39,751 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:41,301 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:41,301 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:08:56,947 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:08:56,947 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:08:56,947 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:08:56,947 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:08:56,947 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:08:56,948 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:08:56,948 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:08:56,948 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:08:56,948 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:08:56,948 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:08:56,948 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:08:56,948 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:08:56,948 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:08:56,948 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:08:56,948 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:09:11,846 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:09:11,846 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:09:11,846 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:09:11,846 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:09:11,846 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:09:11,847 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:09:11,847 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:09:11,847 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:09:11,847 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:09:11,847 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:09:11,847 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:09:11,847 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:09:11,847 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:09:11,847 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:09:11,847 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:09:13,214 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:09:13,214 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:09:13,215 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:09:13,215 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:09:13,215 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:09:13,215 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:09:13,215 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:09:13,215 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:09:13,215 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:09:13,215 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:09:13,215 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:09:13,215 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:09:13,215 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:09:13,215 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:09:13,215 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:09:14,078 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:09:14,078 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:09:14,079 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:09:14,079 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:09:14,934 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:09:14,934 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:09:14,934 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:09:14,934 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:09:14,934 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:09:14,934 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:09:14,935 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:09:14,935 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:09:14,935 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:09:14,935 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:09:14,935 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:09:14,935 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:09:14,935 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:09:14,935 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:09:14,935 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:45:45,501 - DEBUG - Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2024-11-18 14:45:45,502 - DEBUG - Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2024-11-18 14:45:45,502 - DEBUG - Successfully loaded extension "markdown.extensions.codehilite.CodeHiliteExtension".
+2024-11-18 14:45:45,514 - DEBUG - Successfully imported extension module "markdown.extensions.toc".
+2024-11-18 14:45:45,515 - DEBUG - Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2024-11-18 14:45:45,516 - DEBUG - Successfully imported extension module "markdown.extensions.footnotes".
+2024-11-18 14:45:45,517 - DEBUG - Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2024-11-18 14:45:45,517 - DEBUG - Successfully imported extension module "markdown.extensions.attr_list".
+2024-11-18 14:45:45,517 - DEBUG - Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2024-11-18 14:45:45,518 - DEBUG - Successfully imported extension module "markdown.extensions.def_list".
+2024-11-18 14:45:45,518 - DEBUG - Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2024-11-18 14:45:45,520 - DEBUG - Successfully imported extension module "markdown.extensions.abbr".
+2024-11-18 14:45:45,520 - DEBUG - Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2024-11-18 14:45:45,521 - DEBUG - Successfully imported extension module "markdown.extensions.meta".
+2024-11-18 14:45:45,521 - DEBUG - Successfully loaded extension "markdown.extensions.meta.MetaExtension".
+2024-11-18 14:45:45,678 - INFO - Opened file: C:/Users/User_1/Desktop/QuickMD/README.md

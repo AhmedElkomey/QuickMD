@@ -18,5 +18,6 @@ class Editor(QTextEdit):
         font_size = int(self.config.get('font_size', '12'))
         font = QFont(font_family, font_size)
         self.setFont(font)
+        self.setTabStopWidth(int(self.config.get('tab_width', '40')))
         self.highlighter = MarkdownHighlighter(self.document())
 
